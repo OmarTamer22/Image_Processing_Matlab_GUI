@@ -5,9 +5,10 @@ how to use ?
 choose your image from import putton then do waht you whant to the image 
 tips:-
 tip1: brightness slider is applied to the original image that you uploaded 
-tip2: you have to choose padding before applieng Arthimatic,Geomatric,Harmonicand Smothing filters s you don't get errors.
-tip3: rest of filters have only padding with zeros.
+tip2: for only the following filters you can change paddingArthimatic,Geomatric,Harmonicand Smothing filters s you don't get errors.
 
 
-![image](https://user-images.githubusercontent.com/102165235/234717540-19f1e0da-dae9-4712-a21a-ca68e84d4b95.png)
+
+![image](https://user-images.githubusercontent.com/102165235/234727863-c1361f9e-8503-404d-b40f-09a7cbe0ff01.png)
+
 
